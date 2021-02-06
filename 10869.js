@@ -7,3 +7,4 @@ console.log(a-b);
 console.log(a*b);
 console.log(parseInt(a/b)); //나머지 없에기 위해서
 console.log(a%b);
+ 
