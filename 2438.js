@@ -8,4 +8,4 @@ for(let i = 1; i <= input; i++){
     a += '*'; // a의 값이 증가하면서 *추가
     console.log(a); 
 
-}
+ }
