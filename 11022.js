@@ -23,5 +23,5 @@ rl.on('line', function(line){
         console.log("Case #"+C+": " + A + ' + ' + B + ' =',A+B);
         // A+B는 한 값이므로 앞에 ,를 붙여줘야 값이 들어감
     }
-    process.exit();
+    process.exit(); 
 });
