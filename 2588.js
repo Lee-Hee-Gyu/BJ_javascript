@@ -9,7 +9,7 @@ var c = b.toString().split(''); // b안의 값을 toString으로 문자로 받�
 console.log(a*c[2]);
 console.log(a*c[1]);
 console.log(a*c[0]);
-console.log(a*b);
+ console.log(a*b);
 
 
 // 배열을 다른 변수에 하나씩 저장하는 방법을 알았다.
