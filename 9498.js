@@ -10,7 +10,7 @@ var a = parseInt(input[0]);
 } 
     else if(70 <= a <= 79){
         console.log('C');
-       
+        
 } 
     else if(60 <= a <= 69) {
         console.log('D');
