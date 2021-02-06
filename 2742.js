@@ -6,7 +6,7 @@ let sun = '';
 
 for(let i=num; i>=1; i--){
     sun += i + "\n";
-}
+ }
 console.log(sun);
 
 // 출력형식 오류와 시간초과로 인해 굉장히 많은 시간을
